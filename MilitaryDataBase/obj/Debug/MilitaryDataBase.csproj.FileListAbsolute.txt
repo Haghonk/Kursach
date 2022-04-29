@@ -1,0 +1,251 @@
+C:\Users\hagho\source\repos\MilitaryDataBase\MilitaryDataBase\bin\Debug\MilitaryDataBase.exe.config
+C:\Users\hagho\source\repos\MilitaryDataBase\MilitaryDataBase\bin\Debug\MilitaryDataBase.exe
+C:\Users\hagho\source\repos\MilitaryDataBase\MilitaryDataBase\bin\Debug\MilitaryDataBase.pdb
+C:\Users\hagho\source\repos\MilitaryDataBase\MilitaryDataBase\obj\Debug\MilitaryDataBase.csproj.AssemblyReference.cache
+C:\Users\hagho\source\repos\MilitaryDataBase\MilitaryDataBase\obj\Debug\MainWindow.g.cs
+C:\Users\hagho\source\repos\MilitaryDataBase\MilitaryDataBase\obj\Debug\App.g.cs
+C:\Users\hagho\source\repos\MilitaryDataBase\MilitaryDataBase\obj\Debug\MilitaryDataBase_MarkupCompile.cache
+C:\Users\hagho\source\repos\MilitaryDataBase\MilitaryDataBase\obj\Debug\MilitaryDataBase_MarkupCompile.lref
+C:\Users\hagho\source\repos\MilitaryDataBase\MilitaryDataBase\obj\Debug\MainWindow.baml
+C:\Users\hagho\source\repos\MilitaryDataBase\MilitaryDataBase\obj\Debug\MilitaryDataBase.g.resources
+C:\Users\hagho\source\repos\MilitaryDataBase\MilitaryDataBase\obj\Debug\MilitaryDataBase.Properties.Resources.resources
+C:\Users\hagho\source\repos\MilitaryDataBase\MilitaryDataBase\obj\Debug\MilitaryDataBase.csproj.GenerateResource.cache
+C:\Users\hagho\source\repos\MilitaryDataBase\MilitaryDataBase\obj\Debug\MilitaryDataBase.csproj.CoreCompileInputs.cache
+C:\Users\hagho\source\repos\MilitaryDataBase\MilitaryDataBase\obj\Debug\MilitaryDataBase.exe
+C:\Users\hagho\source\repos\MilitaryDataBase\MilitaryDataBase\obj\Debug\MilitaryDataBase.pdb
+C:\Users\hagho\source\repos\MilitaryDataBase\MilitaryDataBase\obj\Debug\EnterDataBase.g.cs
+C:\Users\hagho\source\repos\MilitaryDataBase\MilitaryDataBase\obj\Debug\EnterDataBase.baml
+C:\Users\hagho\source\repos\MilitaryDataBase\MilitaryDataBase\obj\Debug\RegistrationDataBase.g.cs
+C:\Users\hagho\source\repos\MilitaryDataBase\MilitaryDataBase\obj\Debug\RegistrationDataBase.baml
+C:\Users\hagho\source\repos\MilitaryDataBase\MilitaryDataBase\obj\Debug\MainMenu.g.cs
+C:\Users\hagho\source\repos\MilitaryDataBase\MilitaryDataBase\obj\Debug\MainMenu.baml
+C:\Users\hagho\source\repos\MilitaryDataBase\MilitaryDataBase\obj\Debug\DataBase.g.cs
+C:\Users\hagho\source\repos\MilitaryDataBase\MilitaryDataBase\obj\Debug\DataBase.baml
+C:\Users\Student408\Desktop\MilitaryDataBase\MilitaryDataBase\bin\Debug\MilitaryDataBase.exe.config
+C:\Users\Student408\Desktop\MilitaryDataBase\MilitaryDataBase\bin\Debug\MilitaryDataBase.exe
+C:\Users\Student408\Desktop\MilitaryDataBase\MilitaryDataBase\bin\Debug\MilitaryDataBase.pdb
+C:\Users\Student408\Desktop\MilitaryDataBase\MilitaryDataBase\obj\Debug\MilitaryDataBase.csprojAssemblyReference.cache
+C:\Users\Student408\Desktop\MilitaryDataBase\MilitaryDataBase\obj\Debug\DataBase.g.cs
+C:\Users\Student408\Desktop\MilitaryDataBase\MilitaryDataBase\obj\Debug\EnterDataBase.g.cs
+C:\Users\Student408\Desktop\MilitaryDataBase\MilitaryDataBase\obj\Debug\MainMenu.g.cs
+C:\Users\Student408\Desktop\MilitaryDataBase\MilitaryDataBase\obj\Debug\MainWindow.g.cs
+C:\Users\Student408\Desktop\MilitaryDataBase\MilitaryDataBase\obj\Debug\RegistrationDataBase.g.cs
+C:\Users\Student408\Desktop\MilitaryDataBase\MilitaryDataBase\obj\Debug\App.g.cs
+C:\Users\Student408\Desktop\MilitaryDataBase\MilitaryDataBase\obj\Debug\MilitaryDataBase_MarkupCompile.cache
+C:\Users\Student408\Desktop\MilitaryDataBase\MilitaryDataBase\obj\Debug\MilitaryDataBase_MarkupCompile.lref
+C:\Users\Student408\Desktop\MilitaryDataBase\MilitaryDataBase\obj\Debug\DataBase.baml
+C:\Users\Student408\Desktop\MilitaryDataBase\MilitaryDataBase\obj\Debug\EnterDataBase.baml
+C:\Users\Student408\Desktop\MilitaryDataBase\MilitaryDataBase\obj\Debug\MainMenu.baml
+C:\Users\Student408\Desktop\MilitaryDataBase\MilitaryDataBase\obj\Debug\MainWindow.baml
+C:\Users\Student408\Desktop\MilitaryDataBase\MilitaryDataBase\obj\Debug\RegistrationDataBase.baml
+C:\Users\Student408\Desktop\MilitaryDataBase\MilitaryDataBase\obj\Debug\MilitaryDataBase.g.resources
+C:\Users\Student408\Desktop\MilitaryDataBase\MilitaryDataBase\obj\Debug\MilitaryDataBase.Properties.Resources.resources
+C:\Users\Student408\Desktop\MilitaryDataBase\MilitaryDataBase\obj\Debug\MilitaryDataBase.csproj.GenerateResource.cache
+C:\Users\Student408\Desktop\MilitaryDataBase\MilitaryDataBase\obj\Debug\MilitaryDataBase.csproj.CoreCompileInputs.cache
+C:\Users\Student408\Desktop\MilitaryDataBase\MilitaryDataBase\obj\Debug\MilitaryDataBase.exe
+C:\Users\Student408\Desktop\MilitaryDataBase\MilitaryDataBase\obj\Debug\MilitaryDataBase.pdb
+C:\Users\Student408\Desktop\MilitaryDataBase\MilitaryDataBase\bin\Debug\Database1.mdf
+C:\Users\Student408\Desktop\MilitaryDataBase\MilitaryDataBase\bin\Debug\Database1_log.ldf
+C:\Users\Student408\Desktop\MilitaryDataBase\MilitaryDataBase\obj\Debug\MilitaryDataBase_Content.g.cs
+D:\OneDrive\Рабочий стол\MilitaryDataBase_v2\MilitaryDataBase\bin\Debug\Database1.mdf
+D:\OneDrive\Рабочий стол\MilitaryDataBase_v2\MilitaryDataBase\bin\Debug\Database1_log.ldf
+D:\OneDrive\Рабочий стол\MilitaryDataBase_v2\MilitaryDataBase\bin\Debug\MilitaryDataBase.exe.config
+D:\OneDrive\Рабочий стол\MilitaryDataBase_v2\MilitaryDataBase\bin\Debug\MilitaryDataBase.exe
+D:\OneDrive\Рабочий стол\MilitaryDataBase_v2\MilitaryDataBase\bin\Debug\MilitaryDataBase.pdb
+D:\OneDrive\Рабочий стол\MilitaryDataBase_v2\MilitaryDataBase\obj\Debug\MilitaryDataBase.csproj.AssemblyReference.cache
+D:\OneDrive\Рабочий стол\MilitaryDataBase_v2\MilitaryDataBase\obj\Debug\DataBase.g.cs
+D:\OneDrive\Рабочий стол\MilitaryDataBase_v2\MilitaryDataBase\obj\Debug\EnterDataBase.g.cs
+D:\OneDrive\Рабочий стол\MilitaryDataBase_v2\MilitaryDataBase\obj\Debug\MainMenu.g.cs
+D:\OneDrive\Рабочий стол\MilitaryDataBase_v2\MilitaryDataBase\obj\Debug\MainWindow.g.cs
+D:\OneDrive\Рабочий стол\MilitaryDataBase_v2\MilitaryDataBase\obj\Debug\RegistrationDataBase.g.cs
+D:\OneDrive\Рабочий стол\MilitaryDataBase_v2\MilitaryDataBase\obj\Debug\App.g.cs
+D:\OneDrive\Рабочий стол\MilitaryDataBase_v2\MilitaryDataBase\obj\Debug\MilitaryDataBase_Content.g.cs
+D:\OneDrive\Рабочий стол\MilitaryDataBase_v2\MilitaryDataBase\obj\Debug\MilitaryDataBase_MarkupCompile.cache
+D:\OneDrive\Рабочий стол\MilitaryDataBase_v2\MilitaryDataBase\obj\Debug\MilitaryDataBase_MarkupCompile.lref
+D:\OneDrive\Рабочий стол\MilitaryDataBase_v2\MilitaryDataBase\obj\Debug\DataBase.baml
+D:\OneDrive\Рабочий стол\MilitaryDataBase_v2\MilitaryDataBase\obj\Debug\EnterDataBase.baml
+D:\OneDrive\Рабочий стол\MilitaryDataBase_v2\MilitaryDataBase\obj\Debug\MainMenu.baml
+D:\OneDrive\Рабочий стол\MilitaryDataBase_v2\MilitaryDataBase\obj\Debug\MainWindow.baml
+D:\OneDrive\Рабочий стол\MilitaryDataBase_v2\MilitaryDataBase\obj\Debug\RegistrationDataBase.baml
+D:\OneDrive\Рабочий стол\MilitaryDataBase_v2\MilitaryDataBase\obj\Debug\MilitaryDataBase.g.resources
+D:\OneDrive\Рабочий стол\MilitaryDataBase_v2\MilitaryDataBase\obj\Debug\MilitaryDataBase.Properties.Resources.resources
+D:\OneDrive\Рабочий стол\MilitaryDataBase_v2\MilitaryDataBase\obj\Debug\MilitaryDataBase.csproj.GenerateResource.cache
+D:\OneDrive\Рабочий стол\MilitaryDataBase_v2\MilitaryDataBase\obj\Debug\MilitaryDataBase.csproj.CoreCompileInputs.cache
+D:\OneDrive\Рабочий стол\MilitaryDataBase_v2\MilitaryDataBase\obj\Debug\MilitaryDataBase.exe
+D:\OneDrive\Рабочий стол\MilitaryDataBase_v2\MilitaryDataBase\obj\Debug\MilitaryDataBase.pdb
+D:\OneDrive\Рабочий стол\MilitaryDataBase_v2\MilitaryDataBase\obj\Debug\Recording.g.cs
+D:\OneDrive\Рабочий стол\MilitaryDataBase_v2\MilitaryDataBase\obj\Debug\Recording.baml
+D:\OneDrive\Рабочий стол\MilitaryDataBase_v3\MilitaryDataBase\bin\Debug\Database1.mdf
+D:\OneDrive\Рабочий стол\MilitaryDataBase_v3\MilitaryDataBase\bin\Debug\Database1_log.ldf
+D:\OneDrive\Рабочий стол\MilitaryDataBase_v3\MilitaryDataBase\bin\Debug\MilitaryDataBase.exe.config
+D:\OneDrive\Рабочий стол\MilitaryDataBase_v3\MilitaryDataBase\bin\Debug\MilitaryDataBase.exe
+D:\OneDrive\Рабочий стол\MilitaryDataBase_v3\MilitaryDataBase\bin\Debug\MilitaryDataBase.pdb
+D:\OneDrive\Рабочий стол\MilitaryDataBase_v3\MilitaryDataBase\obj\Debug\MilitaryDataBase.csproj.AssemblyReference.cache
+D:\OneDrive\Рабочий стол\MilitaryDataBase_v3\MilitaryDataBase\obj\Debug\DataBase.g.cs
+D:\OneDrive\Рабочий стол\MilitaryDataBase_v3\MilitaryDataBase\obj\Debug\EnterDataBase.g.cs
+D:\OneDrive\Рабочий стол\MilitaryDataBase_v3\MilitaryDataBase\obj\Debug\MainMenu.g.cs
+D:\OneDrive\Рабочий стол\MilitaryDataBase_v3\MilitaryDataBase\obj\Debug\MainWindow.g.cs
+D:\OneDrive\Рабочий стол\MilitaryDataBase_v3\MilitaryDataBase\obj\Debug\Recording.g.cs
+D:\OneDrive\Рабочий стол\MilitaryDataBase_v3\MilitaryDataBase\obj\Debug\RegistrationDataBase.g.cs
+D:\OneDrive\Рабочий стол\MilitaryDataBase_v3\MilitaryDataBase\obj\Debug\App.g.cs
+D:\OneDrive\Рабочий стол\MilitaryDataBase_v3\MilitaryDataBase\obj\Debug\MilitaryDataBase_Content.g.cs
+D:\OneDrive\Рабочий стол\MilitaryDataBase_v3\MilitaryDataBase\obj\Debug\MilitaryDataBase_MarkupCompile.cache
+D:\OneDrive\Рабочий стол\MilitaryDataBase_v3\MilitaryDataBase\obj\Debug\MilitaryDataBase_MarkupCompile.lref
+D:\OneDrive\Рабочий стол\MilitaryDataBase_v3\MilitaryDataBase\obj\Debug\DataBase.baml
+D:\OneDrive\Рабочий стол\MilitaryDataBase_v3\MilitaryDataBase\obj\Debug\EnterDataBase.baml
+D:\OneDrive\Рабочий стол\MilitaryDataBase_v3\MilitaryDataBase\obj\Debug\MainMenu.baml
+D:\OneDrive\Рабочий стол\MilitaryDataBase_v3\MilitaryDataBase\obj\Debug\MainWindow.baml
+D:\OneDrive\Рабочий стол\MilitaryDataBase_v3\MilitaryDataBase\obj\Debug\Recording.baml
+D:\OneDrive\Рабочий стол\MilitaryDataBase_v3\MilitaryDataBase\obj\Debug\RegistrationDataBase.baml
+D:\OneDrive\Рабочий стол\MilitaryDataBase_v3\MilitaryDataBase\obj\Debug\MilitaryDataBase.g.resources
+D:\OneDrive\Рабочий стол\MilitaryDataBase_v3\MilitaryDataBase\obj\Debug\MilitaryDataBase.Properties.Resources.resources
+D:\OneDrive\Рабочий стол\MilitaryDataBase_v3\MilitaryDataBase\obj\Debug\MilitaryDataBase.csproj.GenerateResource.cache
+D:\OneDrive\Рабочий стол\MilitaryDataBase_v3\MilitaryDataBase\obj\Debug\MilitaryDataBase.csproj.CoreCompileInputs.cache
+D:\OneDrive\Рабочий стол\MilitaryDataBase_v3\MilitaryDataBase\obj\Debug\MilitaryDataBase.exe
+D:\OneDrive\Рабочий стол\MilitaryDataBase_v3\MilitaryDataBase\obj\Debug\MilitaryDataBase.pdb
+C:\Users\Student418\Desktop\MilitaryDataBase_v4\MilitaryDataBase\bin\Debug\Database1.mdf
+C:\Users\Student418\Desktop\MilitaryDataBase_v4\MilitaryDataBase\bin\Debug\Database1_log.ldf
+C:\Users\Student418\Desktop\MilitaryDataBase_v4\MilitaryDataBase\bin\Debug\MilitaryDataBase.exe.config
+C:\Users\Student418\Desktop\MilitaryDataBase_v4\MilitaryDataBase\bin\Debug\MilitaryDataBase.exe
+C:\Users\Student418\Desktop\MilitaryDataBase_v4\MilitaryDataBase\bin\Debug\MilitaryDataBase.pdb
+C:\Users\Student418\Desktop\MilitaryDataBase_v4\MilitaryDataBase\obj\Debug\MilitaryDataBase.csprojAssemblyReference.cache
+C:\Users\Student418\Desktop\MilitaryDataBase_v4\MilitaryDataBase\obj\Debug\DataBase.g.cs
+C:\Users\Student418\Desktop\MilitaryDataBase_v4\MilitaryDataBase\obj\Debug\EnterDataBase.g.cs
+C:\Users\Student418\Desktop\MilitaryDataBase_v4\MilitaryDataBase\obj\Debug\MainMenu.g.cs
+C:\Users\Student418\Desktop\MilitaryDataBase_v4\MilitaryDataBase\obj\Debug\MainWindow.g.cs
+C:\Users\Student418\Desktop\MilitaryDataBase_v4\MilitaryDataBase\obj\Debug\Recording.g.cs
+C:\Users\Student418\Desktop\MilitaryDataBase_v4\MilitaryDataBase\obj\Debug\RegistrationDataBase.g.cs
+C:\Users\Student418\Desktop\MilitaryDataBase_v4\MilitaryDataBase\obj\Debug\App.g.cs
+C:\Users\Student418\Desktop\MilitaryDataBase_v4\MilitaryDataBase\obj\Debug\MilitaryDataBase_Content.g.cs
+C:\Users\Student418\Desktop\MilitaryDataBase_v4\MilitaryDataBase\obj\Debug\MilitaryDataBase_MarkupCompile.cache
+C:\Users\Student418\Desktop\MilitaryDataBase_v4\MilitaryDataBase\obj\Debug\MilitaryDataBase_MarkupCompile.lref
+C:\Users\Student418\Desktop\MilitaryDataBase_v4\MilitaryDataBase\obj\Debug\DataBase.baml
+C:\Users\Student418\Desktop\MilitaryDataBase_v4\MilitaryDataBase\obj\Debug\EnterDataBase.baml
+C:\Users\Student418\Desktop\MilitaryDataBase_v4\MilitaryDataBase\obj\Debug\MainMenu.baml
+C:\Users\Student418\Desktop\MilitaryDataBase_v4\MilitaryDataBase\obj\Debug\MainWindow.baml
+C:\Users\Student418\Desktop\MilitaryDataBase_v4\MilitaryDataBase\obj\Debug\Recording.baml
+C:\Users\Student418\Desktop\MilitaryDataBase_v4\MilitaryDataBase\obj\Debug\RegistrationDataBase.baml
+C:\Users\Student418\Desktop\MilitaryDataBase_v4\MilitaryDataBase\obj\Debug\MilitaryDataBase.g.resources
+C:\Users\Student418\Desktop\MilitaryDataBase_v4\MilitaryDataBase\obj\Debug\MilitaryDataBase.Properties.Resources.resources
+C:\Users\Student418\Desktop\MilitaryDataBase_v4\MilitaryDataBase\obj\Debug\MilitaryDataBase.csproj.GenerateResource.cache
+C:\Users\Student418\Desktop\MilitaryDataBase_v4\MilitaryDataBase\obj\Debug\MilitaryDataBase.csproj.CoreCompileInputs.cache
+C:\Users\Student418\Desktop\MilitaryDataBase_v4\MilitaryDataBase\obj\Debug\MilitaryDataBase.exe
+C:\Users\Student418\Desktop\MilitaryDataBase_v4\MilitaryDataBase\obj\Debug\MilitaryDataBase.pdb
+C:\Users\Student418\Desktop\MilitaryDataBase_v5\MilitaryDataBase\bin\Debug\Database1.mdf
+C:\Users\Student418\Desktop\MilitaryDataBase_v5\MilitaryDataBase\bin\Debug\Database1_log.ldf
+C:\Users\Student418\Desktop\MilitaryDataBase_v5\MilitaryDataBase\bin\Debug\MilitaryDataBase.exe.config
+C:\Users\Student418\Desktop\MilitaryDataBase_v5\MilitaryDataBase\bin\Debug\MilitaryDataBase.exe
+C:\Users\Student418\Desktop\MilitaryDataBase_v5\MilitaryDataBase\bin\Debug\MilitaryDataBase.pdb
+C:\Users\Student418\Desktop\MilitaryDataBase_v5\MilitaryDataBase\obj\Debug\MilitaryDataBase.csproj.AssemblyReference.cache
+C:\Users\Student418\Desktop\MilitaryDataBase_v5\MilitaryDataBase\obj\Debug\DataBase.g.cs
+C:\Users\Student418\Desktop\MilitaryDataBase_v5\MilitaryDataBase\obj\Debug\EnterDataBase.g.cs
+C:\Users\Student418\Desktop\MilitaryDataBase_v5\MilitaryDataBase\obj\Debug\MainMenu.g.cs
+C:\Users\Student418\Desktop\MilitaryDataBase_v5\MilitaryDataBase\obj\Debug\MainWindow.g.cs
+C:\Users\Student418\Desktop\MilitaryDataBase_v5\MilitaryDataBase\obj\Debug\Recording.g.cs
+C:\Users\Student418\Desktop\MilitaryDataBase_v5\MilitaryDataBase\obj\Debug\RegistrationDataBase.g.cs
+C:\Users\Student418\Desktop\MilitaryDataBase_v5\MilitaryDataBase\obj\Debug\App.g.cs
+C:\Users\Student418\Desktop\MilitaryDataBase_v5\MilitaryDataBase\obj\Debug\MilitaryDataBase_Content.g.cs
+C:\Users\Student418\Desktop\MilitaryDataBase_v5\MilitaryDataBase\obj\Debug\MilitaryDataBase_MarkupCompile.cache
+C:\Users\Student418\Desktop\MilitaryDataBase_v5\MilitaryDataBase\obj\Debug\MilitaryDataBase_MarkupCompile.lref
+C:\Users\Student418\Desktop\MilitaryDataBase_v5\MilitaryDataBase\obj\Debug\DataBase.baml
+C:\Users\Student418\Desktop\MilitaryDataBase_v5\MilitaryDataBase\obj\Debug\EnterDataBase.baml
+C:\Users\Student418\Desktop\MilitaryDataBase_v5\MilitaryDataBase\obj\Debug\MainMenu.baml
+C:\Users\Student418\Desktop\MilitaryDataBase_v5\MilitaryDataBase\obj\Debug\MainWindow.baml
+C:\Users\Student418\Desktop\MilitaryDataBase_v5\MilitaryDataBase\obj\Debug\Recording.baml
+C:\Users\Student418\Desktop\MilitaryDataBase_v5\MilitaryDataBase\obj\Debug\RegistrationDataBase.baml
+C:\Users\Student418\Desktop\MilitaryDataBase_v5\MilitaryDataBase\obj\Debug\MilitaryDataBase.g.resources
+C:\Users\Student418\Desktop\MilitaryDataBase_v5\MilitaryDataBase\obj\Debug\MilitaryDataBase.Properties.Resources.resources
+C:\Users\Student418\Desktop\MilitaryDataBase_v5\MilitaryDataBase\obj\Debug\MilitaryDataBase.csproj.GenerateResource.cache
+C:\Users\Student418\Desktop\MilitaryDataBase_v5\MilitaryDataBase\obj\Debug\MilitaryDataBase.csproj.CoreCompileInputs.cache
+C:\Users\Student418\Desktop\MilitaryDataBase_v5\MilitaryDataBase\obj\Debug\MilitaryDataBase.exe
+C:\Users\Student418\Desktop\MilitaryDataBase_v5\MilitaryDataBase\obj\Debug\MilitaryDataBase.pdb
+C:\Users\Student418\Desktop\MilitaryDataBase_v6\MilitaryDataBase\bin\Debug\Database1.mdf
+C:\Users\Student418\Desktop\MilitaryDataBase_v6\MilitaryDataBase\bin\Debug\Database1_log.ldf
+C:\Users\Student418\Desktop\MilitaryDataBase_v6\MilitaryDataBase\bin\Debug\MilitaryDataBase.exe.config
+C:\Users\Student418\Desktop\MilitaryDataBase_v6\MilitaryDataBase\bin\Debug\MilitaryDataBase.exe
+C:\Users\Student418\Desktop\MilitaryDataBase_v6\MilitaryDataBase\bin\Debug\MilitaryDataBase.pdb
+C:\Users\Student418\Desktop\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\MilitaryDataBase.csproj.AssemblyReference.cache
+C:\Users\Student418\Desktop\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\DataBase.g.cs
+C:\Users\Student418\Desktop\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\EnterDataBase.g.cs
+C:\Users\Student418\Desktop\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\MainMenu.g.cs
+C:\Users\Student418\Desktop\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\MainWindow.g.cs
+C:\Users\Student418\Desktop\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\Recording.g.cs
+C:\Users\Student418\Desktop\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\RegistrationDataBase.g.cs
+C:\Users\Student418\Desktop\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\App.g.cs
+C:\Users\Student418\Desktop\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\MilitaryDataBase_Content.g.cs
+C:\Users\Student418\Desktop\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\MilitaryDataBase_MarkupCompile.cache
+C:\Users\Student418\Desktop\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\MilitaryDataBase_MarkupCompile.lref
+C:\Users\Student418\Desktop\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\DataBase.baml
+C:\Users\Student418\Desktop\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\EnterDataBase.baml
+C:\Users\Student418\Desktop\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\MainMenu.baml
+C:\Users\Student418\Desktop\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\MainWindow.baml
+C:\Users\Student418\Desktop\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\Recording.baml
+C:\Users\Student418\Desktop\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\RegistrationDataBase.baml
+C:\Users\Student418\Desktop\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\MilitaryDataBase.g.resources
+C:\Users\Student418\Desktop\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\MilitaryDataBase.Properties.Resources.resources
+C:\Users\Student418\Desktop\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\MilitaryDataBase.csproj.GenerateResource.cache
+C:\Users\Student418\Desktop\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\MilitaryDataBase.csproj.CoreCompileInputs.cache
+C:\Users\Student418\Desktop\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\MilitaryDataBase.exe
+C:\Users\Student418\Desktop\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\MilitaryDataBase.pdb
+C:\Users\Student418\Desktop\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\ArchiveTable.g.cs
+C:\Users\Student418\Desktop\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\ArchiveTable.baml
+F:\MilitaryDataBase_v6\MilitaryDataBase\bin\Debug\Database1.mdf
+F:\MilitaryDataBase_v6\MilitaryDataBase\bin\Debug\Database1_log.ldf
+F:\MilitaryDataBase_v6\MilitaryDataBase\bin\Debug\MilitaryDataBase.exe.config
+F:\MilitaryDataBase_v6\MilitaryDataBase\bin\Debug\MilitaryDataBase.exe
+F:\MilitaryDataBase_v6\MilitaryDataBase\bin\Debug\MilitaryDataBase.pdb
+F:\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\MilitaryDataBase.csproj.AssemblyReference.cache
+F:\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\ArchiveTable.g.cs
+F:\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\DataBase.g.cs
+F:\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\EnterDataBase.g.cs
+F:\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\MainMenu.g.cs
+F:\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\MainWindow.g.cs
+F:\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\Recording.g.cs
+F:\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\RegistrationDataBase.g.cs
+F:\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\App.g.cs
+F:\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\MilitaryDataBase_Content.g.cs
+F:\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\MilitaryDataBase_MarkupCompile.cache
+F:\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\MilitaryDataBase_MarkupCompile.lref
+F:\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\ArchiveTable.baml
+F:\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\DataBase.baml
+F:\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\EnterDataBase.baml
+F:\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\MainMenu.baml
+F:\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\MainWindow.baml
+F:\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\Recording.baml
+F:\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\RegistrationDataBase.baml
+F:\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\MilitaryDataBase.g.resources
+F:\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\MilitaryDataBase.Properties.Resources.resources
+F:\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\MilitaryDataBase.csproj.GenerateResource.cache
+F:\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\MilitaryDataBase.csproj.CoreCompileInputs.cache
+F:\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\MilitaryDataBase.exe
+F:\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\MilitaryDataBase.pdb
+E:\MilitaryDataBase_v6\MilitaryDataBase\bin\Debug\Database1.mdf
+E:\MilitaryDataBase_v6\MilitaryDataBase\bin\Debug\Database1_log.ldf
+E:\MilitaryDataBase_v6\MilitaryDataBase\bin\Debug\MilitaryDataBase.exe.config
+E:\MilitaryDataBase_v6\MilitaryDataBase\bin\Debug\MilitaryDataBase.exe
+E:\MilitaryDataBase_v6\MilitaryDataBase\bin\Debug\MilitaryDataBase.pdb
+E:\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\MilitaryDataBase.csproj.AssemblyReference.cache
+E:\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\ArchiveTable.g.cs
+E:\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\DataBase.g.cs
+E:\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\EnterDataBase.g.cs
+E:\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\MainMenu.g.cs
+E:\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\MainWindow.g.cs
+E:\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\Recording.g.cs
+E:\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\RegistrationDataBase.g.cs
+E:\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\App.g.cs
+E:\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\MilitaryDataBase_Content.g.cs
+E:\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\MilitaryDataBase_MarkupCompile.cache
+E:\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\MilitaryDataBase_MarkupCompile.lref
+E:\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\ArchiveTable.baml
+E:\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\DataBase.baml
+E:\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\EnterDataBase.baml
+E:\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\MainMenu.baml
+E:\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\MainWindow.baml
+E:\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\Recording.baml
+E:\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\RegistrationDataBase.baml
+E:\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\MilitaryDataBase.g.resources
+E:\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\MilitaryDataBase.Properties.Resources.resources
+E:\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\MilitaryDataBase.csproj.GenerateResource.cache
+E:\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\MilitaryDataBase.csproj.CoreCompileInputs.cache
+E:\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\MilitaryDataBase.exe
+E:\MilitaryDataBase_v6\MilitaryDataBase\obj\Debug\MilitaryDataBase.pdb

@@ -1,0 +1,24 @@
+﻿<Window x:Class="MilitaryDataBase.EnterDataBase"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MilitaryDataBase"
+        mc:Ignorable="d"
+        Title="EnterDataBase" Height="460" Width="350">
+    <Grid>
+        <Label Content="Вход в базу данных" HorizontalAlignment="Left" Margin="106,44,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="EnterButton" Content="Войти" HorizontalAlignment="Left" Margin="91,290,0,0" VerticalAlignment="Top" Width="146" Height="48" Click="EnterButton_Click"/>
+        <TextBox x:Name="LoginTextBox" HorizontalAlignment="Left" Height="33" Margin="80,111,0,0" TextWrapping="Wrap" Text="Логин" VerticalAlignment="Top" Width="170" MouseDoubleClick="NameTextBox_MouseDoubleClick"/>
+        <TextBox x:Name="PasswordTextBox" HorizontalAlignment="Left" Height="33" Margin="80,149,0,0" TextWrapping="Wrap" Text="Пароль" VerticalAlignment="Top" Width="170" MouseDoubleClick="PasswordTextBox_MouseDoubleClick"/>
+        <ComboBox x:Name="PostComboBox" HorizontalAlignment="Left" Margin="80,196,0,0" VerticalAlignment="Top" Width="170" Height="32">
+            <ComboBoxItem Content="Шофер" HorizontalAlignment="Left" Width="118"/>
+            <ComboBoxItem Content="Офицер" HorizontalAlignment="Left" Width="118"/>
+            <ComboBoxItem Content="Складской" HorizontalAlignment="Left" Width="118"/>
+            <ComboBoxItem Content="Генерал" HorizontalAlignment="Left" Width="118"/>
+            <ComboBoxItem Content="Админ" HorizontalAlignment="Left" Width="118"/>
+        </ComboBox>
+        <Button x:Name="BackButton" Content="Вернутся" HorizontalAlignment="Left" Margin="91,343,0,0" VerticalAlignment="Top" Width="146" Height="48" Click="BackButton_Click"/>
+
+    </Grid>
+</Window>
